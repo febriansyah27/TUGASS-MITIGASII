@@ -1,5 +1,12 @@
 # Pemetaan Mitigasi Bencana Gempa - Sulawesi Tengah
 
+-DI BUAT OLEH KELOMPOK 1-
+1. Febriansyah H - F52124044
+2. Muh. ikhram - F52124050
+3. Vanissa Azzahra Nggiu -F521240
+4. Sahra Anshar - F521240
+5. Ellen Tri Alfiana - F52124049
+
 Aplikasi web interaktif untuk visualisasi peta zona risiko gempa dan kesiapsiagaan di Sulawesi Tengah menggunakan HTML, CSS, dan JavaScript murni.
 
 ## 📁 Struktur Folder
