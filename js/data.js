@@ -27,6 +27,7 @@ const regionsData = [
                 injuries: "~600 orang",
                 damage: "Aftershock signifikan: 5,000 rumah retak berat, 50 bangunan umum roboh, jalan jalanan retak sepanjang 30km, sistem air bersih terputus di 15 RW"
             }
+            
         ]
     },
     {
